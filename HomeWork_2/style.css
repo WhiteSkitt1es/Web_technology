@@ -1,0 +1,16 @@
+.firstImage {
+    border: 25px solid #d1d1d1;
+    width: 338px;
+    margin-left: 50px;
+}
+
+.secondImage {
+    border: 25px solid #d1d1d1;
+    width: 600px;
+    margin-left: 50px;
+}
+
+.parent {
+    width: 1200px;
+    margin: 0 auto;
+}
